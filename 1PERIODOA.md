@@ -19,8 +19,8 @@ Definições:
 ## TEMAS
 ---------------------------
 ### 1 - Biblioteca
-**(Grupo 1 - )**  
-**(Grupo 2 - )** 
+**(Grupo 1 - )**    
+**(Grupo 2 - )**   
 
 Funções:
 - Login
@@ -31,8 +31,8 @@ Funções:
 
 ---------------------------
 ### 2 - Jogo de Perguntas e Resposta (Show do "Milhão")
-**(Grupo 3 - )** 
-**(Grupo 4 - )** 
+**(Grupo 3 - )**    
+**(Grupo 4 - )**  	  
 
 Funções: 
 - Escolhe categorias de perguntas
@@ -42,8 +42,8 @@ Funções:
 
 ----------------------------
 ### 3 - Loja de Sanduiche
-**(Grupo 5 - )** 
-**(Grupo 6 - )** 
+**(Grupo 5 - )**   
+**(Grupo 6 - )**   
 
 Funções:
 - Login
@@ -54,8 +54,8 @@ Funções:
 
 -----------------------------
 ### 4 - Sistema Acadêmico
-**(Grupo 7 - )** 
-**(Grupo 8 - )** 
+**(Grupo 7 - )**   
+**(Grupo 8 - )**   
 
 Funções:
 - Login
@@ -67,8 +67,8 @@ Funções:
 
 -----------------------------
 ### 5 - Farmácia 
-**(Grupo 9 - )** 
-**(Grupo 10 - )** 
+**(Grupo 9 - )**   
+**(Grupo 10 - )**   
 
 Funções:
 - Login
@@ -79,8 +79,8 @@ Funções:
 
 ---------------------------
 ### 6 - Gerenciador de Pousadas
-**(Grupo 11 - Flávia Marina e Fábio Luis)** 
-**(Grupo 12 - )** 
+**(Grupo 11 - Flávia Marina e Fábio Luis)**   
+**(Grupo 12 - )**   
 
 Funções:
 - Login
@@ -91,8 +91,8 @@ Funções:
 
 ---------------------------
 ### 7 - Lista de Atividades  (To do List)
-**(Grupo 13 - Arthur Fernandes e Magna Luanda)** 
-**(Grupo 14 - )** 
+**(Grupo 13 - Arthur Fernandes e Magna Luanda)**   
+**(Grupo 14 - )**   
 
 Funções:
 - Cadastrar uma atividade a ser realizada (Nome da atividade)
@@ -104,8 +104,8 @@ Funções:
 
 ---------------------------
 ### 8 - Clinica 
-**(Grupo 15 - )** 
-**(Grupo 16 - )** 
+**(Grupo 15 - )**   
+**(Grupo 16 - )**   
 
 Funções:
 - Login
@@ -116,8 +116,8 @@ Funções:
 
 ----------------------------
 ### 9 - Mercadinho
-**(Grupo 17 - )** 
-**(Grupo 18 - )** 
+**(Grupo 17 - )**   
+**(Grupo 18 - )**   
 
 Funções:
 - Login
@@ -128,8 +128,8 @@ Funções:
 
 ----------------------------
 ### 10 - Gerenciador de Eventos
-**(Grupo 19 - )** 
-**(Grupo 20 - )** 
+**(Grupo 19 - )**   
+**(Grupo 20 - )**   
 
 Funções:
 - Login
@@ -141,8 +141,8 @@ Funções:
 
 ----------------------------
 ### 11 - Sistema de Atendimento de Restaurante
-**(Grupo 21 - )** 
-**(Grupo 22 - )** 
+**(Grupo 21 - )**   
+**(Grupo 22 - )**   
 
 Funções:
 - Login
@@ -154,8 +154,8 @@ Funções:
 
 ----------------------------
 ### 12 - Controle de Tarefas Domésticas
-**(Grupo 23 - )** 
-**(Grupo 24 - )** 
+**(Grupo 23 - )**   
+**(Grupo 24 - )**   
 
 Funções:
 - Login
@@ -166,8 +166,8 @@ Funções:
 
 ----------------------------
 ### 13 - Sistema de Aluguel de Carros
-**(Grupo 25 - Airley, Salis e Julia)** 
-**(Grupo 26 - )** 
+**(Grupo 25 - Airley, Salis e Julia)**   
+**(Grupo 26 - )**   
 
 Funções:
 - Login
@@ -178,9 +178,9 @@ Funções:
 - Exibir Histórico de Alugueis
 
 ----------------------------
-### 14 - Gerenciador de Finanças Pessoais
-**(Grupo 27 - Arthur Franco, Luiz Arthur e Felipe Torres)** 
-**(Grupo 28 - Vinicius Nascimento, João Vinicius e Emmanuel)** 
+### ~~14 - Gerenciador de Finanças Pessoais (ESGOTADO)~~
+**(Grupo 27 - Arthur Franco, Luiz Arthur e Felipe Torres)**   
+**(Grupo 28 - Vinicius Nascimento, João Vinicius e Emmanuel)**   
 
 Funções:
 - Login
@@ -192,8 +192,8 @@ Funções:
 
 ----------------------------
 ### 15 - Jogo de Batalha Naval
-**(Grupo 29 - )** 
-**(Grupo 30 - )** 
+**(Grupo 29 - )**   
+**(Grupo 30 - )**   
 
 - Exibir um Tabuleiro 10x10
 - Jogador 1 escolhe onde colocar 5 items no labuleiro 
@@ -219,8 +219,8 @@ Funções:
 
 -------------------------------
 ### 16 - Jogo da Forca
-**(Grupo 32 - Arthur Felipe Bezerra)** 
-**(Grupo 32 - )** 
+**(Grupo 32 - Arthur Felipe Bezerra)**   
+**(Grupo 32 - )**   
 
 Funções:
 - Menu:
@@ -233,8 +233,8 @@ Funções:
 
 -------------------------------
 ### 17 - Pedra, Papel e Tesoura
-**(Grupo 33 - Gabriel Malta e Igor Alves)** 
-**(Grupo 34 - )** 
+**(Grupo 33 - Gabriel Malta e Igor Alves)**   
+**(Grupo 34 - )**   
 
 Funções: 
 - Mostrar o desenho da mão de acordo com a jogada escolhida
@@ -247,7 +247,7 @@ Funções:
 
 -------------------------------
 ### 18 - Tema próprio Sistema de RH
-**(Grupo 35 - Pedro Henrique Luz e Davi Duarte)** 
+**(Grupo 35 - Pedro Henrique Luz e Davi Duarte)**   
 
 Funções: 
 - Login
