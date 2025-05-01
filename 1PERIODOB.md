@@ -19,8 +19,9 @@ Definições:
 ## TEMAS
 ---------------------------
 ### 1 - Biblioteca
-**- **- (Grupo 1 - )****  
-**- **- (Grupo 2 - )**** 
+**(Grupo 1 - )**
+**(Grupo 2 - )**
+
 Funções:
 - Login
 - Cadastrar Livro (Autor, Nome, Categoria...)
@@ -30,8 +31,9 @@ Funções:
 
 ---------------------------
 ### 2 - Jogo de Perguntas e Resposta (Show do "Milhão")
-**- **- (Grupo 3 - )**
-**- **- (Grupo 4 - )**
+**(Grupo 3 - )**
+**(Grupo 4 - )**
+
 Funções: 
 - Escolhe categorias de perguntas
 - Inicia o jogo respondendo até o final ou até a pessoa errar
@@ -40,8 +42,9 @@ Funções:
 
 ----------------------------
 ### 3 - Loja de Sanduiche
-**- (Grupo 5 - )**
-**- (Grupo 6 - )**
+**(Grupo 5 - )**
+**(Grupo 6 - )**
+
 Funções:
 - Login
 - Cadastrar Produto (Nome do produto, preço e estoque)
@@ -51,8 +54,9 @@ Funções:
 
 -----------------------------
 ### 4 - Sistema Acadêmico
-**- (Grupo 7 - )**
-**- (Grupo 8 - )**
+**(Grupo 7 - )**
+**(Grupo 8 - )**
+
 Funções:
 - Login
 - Cadastrar Disciplinas
@@ -63,8 +67,9 @@ Funções:
 
 -----------------------------
 ### 5 - Farmácia 
-**- (Grupo 9 - )**
-**- (Grupo 10 - )**
+**(Grupo 9 - )**
+**(Grupo 10 - )**
+
 Funções:
 - Login
 - Cadastrar Produto (Nome, Preço, Tarja, Quantidade)
@@ -74,8 +79,9 @@ Funções:
 
 ---------------------------
 ### 6 - Gerenciador de Pousadas
-**- (Grupo 11 - )**
-**- (Grupo 12 - )**
+**(Grupo 11 - )**
+**(Grupo 12 - )**
+
 Funções:
 - Login
 - Cadastro de Pousada (Nome, Diaria, Cidade, Quantos quartos disponiveis)
@@ -85,8 +91,9 @@ Funções:
 
 ---------------------------
 ### 7 - Lista de Atividades  (To do List)
-**- (Grupo 13 - )**
-**- (Grupo 14 - )**
+**(Grupo 13 - )**
+**(Grupo 14 - )**
+
 Funções:
 - Cadastrar uma atividade a ser realizada (Nome da atividade)
 - Atualizar atividade
@@ -97,8 +104,9 @@ Funções:
 
 ---------------------------
 ### 8 - Clinica 
-**- (Grupo 15 - )**
-**- (Grupo 16 - )**
+**(Grupo 15 - )**
+**(Grupo 16 - )**
+
 Funções:
 - Login
 - Cadastrar Médico (Informar o nome do médico e dias da semana que atende)
@@ -108,8 +116,9 @@ Funções:
 
 ----------------------------
 ### 9 - Mercadinho
-**- (Grupo 17 - )**
-**- (Grupo 18 - )**
+**(Grupo 17 - )**
+**(Grupo 18 - )**
+
 Funções:
 - Login
 - Listar Produtos Previamente Cadastrados (Usar um vetor com todos produtos disponiveis)
@@ -119,8 +128,9 @@ Funções:
 
 ----------------------------
 ### 10 - Gerenciador de Eventos
-**- (Grupo 19 - )**
-**- (Grupo 20 - )**
+**(Grupo 19 - )**
+**(Grupo 20 - )**
+
 Funções:
 - Login
 - Cadastrar Evento (Nome, Data, Local, Capacidade)
@@ -131,8 +141,9 @@ Funções:
 
 ----------------------------
 ### 11 - Sistema de Atendimento de Restaurante
-**- (Grupo 21 - )**
-**- (Grupo 22 - )**
+**(Grupo 21 - )**
+**(Grupo 22 - )**
+
 Funções:
 - Login
 - Cadastrar Cardápio (Nome do Prato, Preço, Ingredientes)
@@ -143,8 +154,9 @@ Funções:
 
 ----------------------------
 ### 12 - Controle de Tarefas Domésticas
-**- (Grupo 23 - )**
-**- (Grupo 24 - )**
+**(Grupo 23 - )**
+**(Grupo 24 - )**
+
 Funções:
 - Login
 - Cadastrar Tarefas (Nome, Descrição, Frequência: Diário/Semanal/Mensal)
@@ -154,8 +166,9 @@ Funções:
 
 ----------------------------
 ### 13 - Sistema de Aluguel de Carros
-**- (Grupo 25 - )**
-**- (Grupo 26 - )**
+**(Grupo 25 - )**
+**(Grupo 26 - )**
+
 Funções:
 - Login
 - Cadastrar Carro (Modelo, Ano, Preço por Dia, Disponibilidade)
@@ -166,8 +179,9 @@ Funções:
 
 ----------------------------
 ### 14 - Gerenciador de Finanças Pessoais
-**- (Grupo 27 - )**
-**- (Grupo 28 - )**
+**(Grupo 27 - )**
+**(Grupo 28 - )**
+
 Funções:
 - Login
 - Cadastrar Receita (Descrição, Valor, Data)
@@ -178,8 +192,9 @@ Funções:
 
 ----------------------------
 ### 15 - Jogo de Batalha Naval
-**- (Grupo 29 - )**
-**- (Grupo 30 - )**
+**(Grupo 29 - )**
+**(Grupo 30 - )**
+
 - Exibir um Tabuleiro 10x10
 - Jogador 1 escolhe onde colocar 5 items no labuleiro 
 - Limpa a tela e o jogador 2 escolhe 5 posições no tabuleiro para ele colocar as peças dele
@@ -204,8 +219,9 @@ Funções:
 
 -------------------------------
 ### 16 - Jogo da Forca
-**- (Grupo 32 - )**
-**- (Grupo 32 - )**
+**(Grupo 32 - )**
+**(Grupo 32 - )**
+
 Funções:
 - Menu:
 - 1 - Jogar
@@ -217,8 +233,9 @@ Funções:
 
 -------------------------------
 ### 17 - Pedra, Papel e Tesoura
-**- (Grupo 33 - )**
-**- (Grupo 34 - )**
+**(Grupo 33 - )**
+**(Grupo 34 - )**
+
 Funções: 
 - Mostrar o desenho da mão de acordo com a jogada escolhida
 - Menu
@@ -230,7 +247,7 @@ Funções:
 
 -------------------------------
 ### 18 - Tema próprio Sistema de RH
-**- (Grupo 35 - )**
+**(Grupo 35 - )**
 Funções: 
 - Login
 - Menu de opções
