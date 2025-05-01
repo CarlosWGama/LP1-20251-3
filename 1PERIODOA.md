@@ -54,7 +54,7 @@ Funções:
 
 -----------------------------
 ### 4 - Sistema Acadêmico
-**(Grupo 7 - )**   
+**(Grupo 7 - José Lucas, Pedro Gabriel e Stella)**   
 **(Grupo 8 - )**   
 
 Funções:
