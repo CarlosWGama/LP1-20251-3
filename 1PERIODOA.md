@@ -19,7 +19,7 @@ Definições:
 ## TEMAS
 ---------------------------
 ### 1 - Biblioteca
-**(Grupo 1 - )**    
+**(Grupo 1 - Valquíria Kaila e Teófanes Albuquerque)**    
 **(Grupo 2 - )**   
 
 Funções:
@@ -31,7 +31,7 @@ Funções:
 
 ---------------------------
 ### 2 - Jogo de Perguntas e Resposta (Show do "Milhão")
-**(Grupo 3 - )**    
+**(Grupo 3 - Lucas Fontan, Jair barcelos e Luiz gustavo)**    
 **(Grupo 4 - )**  	  
 
 Funções: 
@@ -90,9 +90,9 @@ Funções:
 - Exibir quantos quartos estão disponiveis no hotel
 
 ---------------------------
-### 7 - Lista de Atividades  (To do List)
+### ~~7 - Lista de Atividades  (To do List)~~
 **(Grupo 13 - Arthur Fernandes e Magna Luanda)**   
-**(Grupo 14 - )**   
+**(Grupo 14 - Uverlan e João Paulo)**   
 
 Funções:
 - Cadastrar uma atividade a ser realizada (Nome da atividade)
