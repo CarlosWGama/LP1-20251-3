@@ -166,7 +166,7 @@ Funções:
 
 ----------------------------
 ### 13 - Sistema de Aluguel de Carros
-**(Grupo 25 - )**  
+**(Grupo 25 - Rangel, Jose Ray e Rogger)**  
 **(Grupo 26 - )**  
 
 Funções:

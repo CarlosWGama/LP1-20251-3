@@ -232,7 +232,7 @@ Funções:
 - Exibir a pontuação do jogador. 
 
 -------------------------------
-### 17 - Pedra, Papel e Tesoura
+### ~~17 - Pedra, Papel e Tesoura (ESGOTADO)~~
 **(Grupo 33 - Gabriel Malta e Igor Alves)**   
 **(Grupo 34 - Davi Lima)**   
 
