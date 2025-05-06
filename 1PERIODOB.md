@@ -91,7 +91,7 @@ Funções:
 
 ---------------------------
 ### 7 - Lista de Atividades  (To do List)
-**(Grupo 13 - )**  
+**(Grupo 13 - Daniel de Jesus, Pedro Victhor e Carlos)**  
 **(Grupo 14 - )**  
 
 Funções:
@@ -191,9 +191,9 @@ Funções:
 - Gerar Relatório de Movimentações (Mensal, Anual)
 
 ----------------------------
-### 15 - Jogo de Batalha Naval
+### ~~15 - Jogo de Batalha Naval (ESGOTADO)~~
 **(Grupo 29 - Eduardo Souza)**  
-**(Grupo 30 - )**  
+**(Grupo 30 - Isaque Batista da Silva Cabral e Rafael Figueiredo Lima De Queiroz)**  
 
 - Exibir um Tabuleiro 10x10
 - Jogador 1 escolhe onde colocar 5 items no labuleiro 
