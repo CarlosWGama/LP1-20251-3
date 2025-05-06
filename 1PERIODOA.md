@@ -115,9 +115,9 @@ Funções:
 - Confirmar consulta
 
 ----------------------------
-### 9 - Mercadinho
+### ~~9 - Mercadinho (ESGOTADO)~~
 **(Grupo 17 - Gustavo Rodrigues, Rodrigo Antônio, Kauã Lira)**   
-**(Grupo 18 - )**   
+**(Grupo 18 - Pedro Leão,Pedro Correia e Kevin Burgos)**   
 
 Funções:
 - Login

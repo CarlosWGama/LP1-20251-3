@@ -115,9 +115,9 @@ Funções:
 - Confirmar consulta
 
 ----------------------------
-### 9 - Mercadinho
+### ~~9 - Mercadinho (ESGOTADO)~~
 **(Grupo 17 - Arthur Resende e João Lucas)**  
-**(Grupo 18 - )**  
+**(Grupo 18 - João Gabriel Lins de Lima e Sammy Teixeira )**  
 
 Funções:
 - Login
@@ -141,7 +141,7 @@ Funções:
 
 ----------------------------
 ### 11 - Sistema de Atendimento de Restaurante
-**(Grupo 21 - )**  
+**(Grupo 21 - Arthur Rafael e ????????)**  
 **(Grupo 22 - )**  
 
 Funções:
