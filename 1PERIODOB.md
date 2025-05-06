@@ -165,9 +165,9 @@ Funções:
 - Exibir Histórico de Tarefas Concluídas
 
 ----------------------------
-### 13 - Sistema de Aluguel de Carros
+### ~~13 - Sistema de Aluguel de Carros (ESGOTADO)~~
 **(Grupo 25 - Rangel, Jose Ray e Rogger)**  
-**(Grupo 26 - )**  
+**(Grupo 26 - Vinicius Brandão, Romeu e João Guilherme)**  
 
 Funções:
 - Login
