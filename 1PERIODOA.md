@@ -234,7 +234,7 @@ Funções:
 -------------------------------
 ### 17 - Pedra, Papel e Tesoura
 **(Grupo 33 - Gabriel Malta e Igor Alves)**   
-**(Grupo 34 - )**   
+**(Grupo 34 - Davi Lima)**   
 
 Funções: 
 - Mostrar o desenho da mão de acordo com a jogada escolhida
