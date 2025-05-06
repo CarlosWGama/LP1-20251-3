@@ -30,9 +30,9 @@ Funções:
 - Devolver o Livro
 
 ---------------------------
-### 2 - Jogo de Perguntas e Resposta (Show do "Milhão")
+### ~~2 - Jogo de Perguntas e Resposta (Show do "Milhão") (ESGOTADO)~~
 **(Grupo 3 - Lucas Fontan, Jair barcelos e Luiz gustavo)**    
-**(Grupo 4 - )**  	  
+**(Grupo 4 - Guilherme, Lucas Araujo, Leonardo)**  	  
 
 Funções: 
 - Escolhe categorias de perguntas
@@ -42,7 +42,7 @@ Funções:
 
 ----------------------------
 ### 3 - Loja de Sanduiche
-**(Grupo 5 - )**   
+**(Grupo 5 - Ryan e Jose Leonardo)**   
 **(Grupo 6 - )**   
 
 Funções:
@@ -66,9 +66,9 @@ Funções:
 - Atribuir Nota para aluno em uma disciplina
 
 -----------------------------
-### 5 - Farmácia 
-**(Grupo 9 - )**   
-**(Grupo 10 - )**   
+### ~~5 - Farmácia (ESGOTADO)~~
+**(Grupo 9 - Danylo e João Pedro Tavares)**   
+**(Grupo 10 - Oton, Luciano e Filipe Castelo)**   
 
 Funções:
 - Login
@@ -116,7 +116,7 @@ Funções:
 
 ----------------------------
 ### 9 - Mercadinho
-**(Grupo 17 - )**   
+**(Grupo 17 - Gustavo Rodrigues, Rodrigo Antônio, Kauã Lira)**   
 **(Grupo 18 - )**   
 
 Funções:
@@ -128,7 +128,7 @@ Funções:
 
 ----------------------------
 ### 10 - Gerenciador de Eventos
-**(Grupo 19 - )**   
+**(Grupo 19 - Marcos, Caio Barros e Ygor)**   
 **(Grupo 20 - )**   
 
 Funções:

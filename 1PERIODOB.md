@@ -19,8 +19,8 @@ Definições:
 ## TEMAS
 ---------------------------
 ### 1 - Biblioteca
-**(Grupo 1 - )**
-**(Grupo 2 - )**
+**(Grupo 1 - )**  
+**(Grupo 2 - )**  
 
 Funções:
 - Login
@@ -31,8 +31,8 @@ Funções:
 
 ---------------------------
 ### 2 - Jogo de Perguntas e Resposta (Show do "Milhão")
-**(Grupo 3 - )**
-**(Grupo 4 - )**
+**(Grupo 3 - )**  
+**(Grupo 4 - )**  
 
 Funções: 
 - Escolhe categorias de perguntas
@@ -41,9 +41,9 @@ Funções:
 - Exibe os 5 primeiros colocados
 
 ----------------------------
-### 3 - Loja de Sanduiche
-**(Grupo 5 - )**
-**(Grupo 6 - )**
+### ~~3 - Loja de Sanduiche (ESGOTADO)~~
+**(Grupo 5 - Guilherme Tenório e João Pedro Castanha)**  
+**(Grupo 6 - Vinicius Coelho e João Victor Coelho)**  
 
 Funções:
 - Login
@@ -54,8 +54,8 @@ Funções:
 
 -----------------------------
 ### 4 - Sistema Acadêmico
-**(Grupo 7 - )**
-**(Grupo 8 - )**
+**(Grupo 7 - )**  
+**(Grupo 8 - )**  
 
 Funções:
 - Login
@@ -67,8 +67,8 @@ Funções:
 
 -----------------------------
 ### 5 - Farmácia 
-**(Grupo 9 - )**
-**(Grupo 10 - )**
+**(Grupo 9 - )**  
+**(Grupo 10 - )**  
 
 Funções:
 - Login
@@ -79,8 +79,8 @@ Funções:
 
 ---------------------------
 ### 6 - Gerenciador de Pousadas
-**(Grupo 11 - )**
-**(Grupo 12 - )**
+**(Grupo 11 - )**  
+**(Grupo 12 - )**  
 
 Funções:
 - Login
@@ -91,8 +91,8 @@ Funções:
 
 ---------------------------
 ### 7 - Lista de Atividades  (To do List)
-**(Grupo 13 - )**
-**(Grupo 14 - )**
+**(Grupo 13 - )**  
+**(Grupo 14 - )**  
 
 Funções:
 - Cadastrar uma atividade a ser realizada (Nome da atividade)
@@ -104,8 +104,8 @@ Funções:
 
 ---------------------------
 ### 8 - Clinica 
-**(Grupo 15 - )**
-**(Grupo 16 - )**
+**(Grupo 15 - )**  
+**(Grupo 16 - )**  
 
 Funções:
 - Login
@@ -116,8 +116,8 @@ Funções:
 
 ----------------------------
 ### 9 - Mercadinho
-**(Grupo 17 - )**
-**(Grupo 18 - )**
+**(Grupo 17 - Arthur Resende e João Lucas)**  
+**(Grupo 18 - )**  
 
 Funções:
 - Login
@@ -128,8 +128,8 @@ Funções:
 
 ----------------------------
 ### 10 - Gerenciador de Eventos
-**(Grupo 19 - )**
-**(Grupo 20 - )**
+**(Grupo 19 - )**  
+**(Grupo 20 - )**  
 
 Funções:
 - Login
@@ -141,8 +141,8 @@ Funções:
 
 ----------------------------
 ### 11 - Sistema de Atendimento de Restaurante
-**(Grupo 21 - )**
-**(Grupo 22 - )**
+**(Grupo 21 - )**  
+**(Grupo 22 - )**  
 
 Funções:
 - Login
@@ -154,8 +154,8 @@ Funções:
 
 ----------------------------
 ### 12 - Controle de Tarefas Domésticas
-**(Grupo 23 - )**
-**(Grupo 24 - )**
+**(Grupo 23 - )**  
+**(Grupo 24 - )**  
 
 Funções:
 - Login
@@ -166,8 +166,8 @@ Funções:
 
 ----------------------------
 ### 13 - Sistema de Aluguel de Carros
-**(Grupo 25 - )**
-**(Grupo 26 - )**
+**(Grupo 25 - )**  
+**(Grupo 26 - )**  
 
 Funções:
 - Login
@@ -179,8 +179,8 @@ Funções:
 
 ----------------------------
 ### 14 - Gerenciador de Finanças Pessoais
-**(Grupo 27 - )**
-**(Grupo 28 - )**
+**(Grupo 27 - )**  
+**(Grupo 28 - )**  
 
 Funções:
 - Login
@@ -192,8 +192,8 @@ Funções:
 
 ----------------------------
 ### 15 - Jogo de Batalha Naval
-**(Grupo 29 - )**
-**(Grupo 30 - )**
+**(Grupo 29 - Eduardo Souza)**  
+**(Grupo 30 - )**  
 
 - Exibir um Tabuleiro 10x10
 - Jogador 1 escolhe onde colocar 5 items no labuleiro 
@@ -204,23 +204,23 @@ Funções:
 - Exibe o tabuleiro com as peças ocultas do jogador adversário (Exceto as descobertas)
 - Pede ao jogador escolher uma posição para atacar. Caso acerte mostra um O na posição que acertou,caso erre mostra um X.
 - Após isso limpa a tela com um pause, para o próximo jogador iniciar e repete o processo até alguém acertar as 5 peças.
-- Exemplo da visão do tabuleiro:
- 0123456789
-0----------
-1-------X--
-2---O------
-3----------
-4-----X----
-5----------
-6-XX-------
-7-----X---O
-8----------
-9----------
+- Exemplo da visão do tabuleiro:  
+ 0123456789  
+0----------  
+1-------X--  
+2---O------  
+3----------  
+4-----X----  
+5----------  
+6-XX-------  
+7-----X---O  
+8----------  
+9----------  
 
 -------------------------------
 ### 16 - Jogo da Forca
-**(Grupo 32 - )**
-**(Grupo 32 - )**
+**(Grupo 32 - )**  
+**(Grupo 32 - )**  
 
 Funções:
 - Menu:
@@ -233,8 +233,8 @@ Funções:
 
 -------------------------------
 ### 17 - Pedra, Papel e Tesoura
-**(Grupo 33 - )**
-**(Grupo 34 - )**
+**(Grupo 33 - )**  
+**(Grupo 34 - )**  
 
 Funções: 
 - Mostrar o desenho da mão de acordo com a jogada escolhida
@@ -247,13 +247,14 @@ Funções:
 
 -------------------------------
 ### 18 - Tema próprio Sistema de RH
-**(Grupo 35 - )**
+**(Grupo 35 - João Gabriel Cavalcante, Thiago Minervino, Matheus Xavier)**  
+**(Grupo 36 - )**  
 Funções: 
 - Login
 - Menu de opções
 - cadastrar funcionário
 - listar funcioário
-- cálcular taxas
+- cálcular taxas (FGTS, Salário Liquido, INSS e Imposto de Renda)
 
 
 -----------------------------------------------------------------------------------------------------------------------
