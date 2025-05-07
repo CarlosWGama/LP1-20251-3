@@ -67,7 +67,7 @@ Funções:
 
 -----------------------------
 ### 5 - Farmácia 
-**(Grupo 9 - )**  
+**(Grupo 9 - Chrysthyan e Daniel Vasconcellos)**  
 **(Grupo 10 - )**  
 
 Funções:
@@ -128,7 +128,7 @@ Funções:
 
 ----------------------------
 ### 10 - Gerenciador de Eventos
-**(Grupo 19 - )**  
+**(Grupo 19 - Pedro Jorge Neves e João Victor Andrade)**  
 **(Grupo 20 - )**  
 
 Funções:
