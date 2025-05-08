@@ -43,7 +43,7 @@ Funções:
 ----------------------------
 ### 3 - Loja de Sanduiche
 **(Grupo 5 - Ryan e Jose Leonardo)**   
-**(Grupo 6 - )**   
+**(Grupo 6 - Jorge Jose, Pedro Henrique dos Santos e Yuri Clay)**   
 
 Funções:
 - Login
