@@ -31,7 +31,7 @@ Funções:
 
 ---------------------------
 ### 2 - Jogo de Perguntas e Resposta (Show do "Milhão")
-**(Grupo 3 - )**  
+**(Grupo 3 - Julius e Antônio)**  
 **(Grupo 4 - )**  
 
 Funções: 
@@ -140,9 +140,9 @@ Funções:
 - Confirmar Presença de Participante
 
 ----------------------------
-### 11 - Sistema de Atendimento de Restaurante
-**(Grupo 21 - Arthur Rafael e ????????)**  
-**(Grupo 22 - )**  
+### ~~11 - Sistema de Atendimento de Restaurante (ESGOTAADO)~~
+**(Grupo 21 - Arthur Rafael e Fernando Henrique)**    
+**(Grupo 22 - Diogo Paes e Andrei)**  
 
 Funções:
 - Login
