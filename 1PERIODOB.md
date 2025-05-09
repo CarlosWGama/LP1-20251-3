@@ -32,7 +32,7 @@ Funções:
 ---------------------------
 ### 2 - Jogo de Perguntas e Resposta (Show do "Milhão")
 **(Grupo 3 - Julius e Antônio)**  
-**(Grupo 4 - )**  
+**(Grupo 4 - Flávio e Arthur Soares)**  
 
 Funções: 
 - Escolhe categorias de perguntas
@@ -233,7 +233,7 @@ Funções:
 
 -------------------------------
 ### 17 - Pedra, Papel e Tesoura
-**(Grupo 33 - Flávio e Arthur Soares)**  
+**(Grupo 33 - )**  
 **(Grupo 34 - )**  
 
 Funções: 
