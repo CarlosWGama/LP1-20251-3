@@ -233,7 +233,7 @@ Funções:
 
 -------------------------------
 ### 17 - Pedra, Papel e Tesoura
-**(Grupo 33 - )**  
+**(Grupo 33 - Flávio e Arthur Soares)**  
 **(Grupo 34 - )**  
 
 Funções: 
