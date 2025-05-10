@@ -30,7 +30,7 @@ Funções:
 - Devolver o Livro
 
 ---------------------------
-### 2 - Jogo de Perguntas e Resposta (Show do "Milhão")
+### ~~2 - Jogo de Perguntas e Resposta (Show do "Milhão") (ESGOTADO)~~ 
 **(Grupo 3 - Julius e Antônio)**  
 **(Grupo 4 - Flávio e Arthur Soares)**  
 
@@ -54,7 +54,7 @@ Funções:
 
 -----------------------------
 ### 4 - Sistema Acadêmico
-**(Grupo 7 - )**  
+**(Grupo 7 - Bruno Henrique)**  
 **(Grupo 8 - )**  
 
 Funções:
@@ -219,7 +219,7 @@ Funções:
 
 -------------------------------
 ### 16 - Jogo da Forca
-**(Grupo 32 - )**  
+**(Grupo 32 - João Paulo e Cauã Monteiro)**  
 **(Grupo 32 - )**  
 
 Funções:
@@ -246,7 +246,7 @@ Funções:
 - 2 - Sair
 
 -------------------------------
-### 18 - Tema próprio Sistema de RH
+### 18 -  Sistema de RH
 **(Grupo 35 - João Gabriel Cavalcante, Thiago Minervino, Matheus Xavier)**  
 **(Grupo 36 - )**  
 Funções: 
