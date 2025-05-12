@@ -53,9 +53,9 @@ Funções:
 - Exibe as compras (historico) 
 
 -----------------------------
-### 4 - Sistema Acadêmico
+### ~~4 - Sistema Acadêmico (ESGOTADO)~~
 **(Grupo 7 - Bruno Henrique)**  
-**(Grupo 8 - )**  
+**(Grupo 8 - João Victor Pontes)**  
 
 Funções:
 - Login
@@ -233,7 +233,7 @@ Funções:
 
 -------------------------------
 ### 17 - Pedra, Papel e Tesoura
-**(Grupo 33 - )**  
+**(Grupo 33 - Sávio Almeida e Henrique Melo)**  
 **(Grupo 34 - )**  
 
 Funções: 
