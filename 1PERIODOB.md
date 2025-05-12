@@ -43,7 +43,7 @@ Funções:
 ----------------------------
 ### ~~3 - Loja de Sanduiche (ESGOTADO)~~
 **(Grupo 5 - Guilherme Tenório e João Pedro Castanha)**  
-**(Grupo 6 - Vinicius Coelho e João Victor Coelho)**  
+**(Grupo 6 - Vinicius Coelho, João Victor Coelho e Felipe Augusto )**  
 
 Funções:
 - Login
@@ -66,9 +66,9 @@ Funções:
 - Atribuir Nota para aluno em uma disciplina
 
 -----------------------------
-### 5 - Farmácia 
+### ~~5 - Farmácia(ESGOTADO)~~
 **(Grupo 9 - Chrysthyan e Daniel Vasconcellos)**  
-**(Grupo 10 - )**  
+**(Grupo 10 - Amauri, Gabriel José Xavier e Gabriel Stoffel)**  
 
 Funções:
 - Login
@@ -79,7 +79,7 @@ Funções:
 
 ---------------------------
 ### 6 - Gerenciador de Pousadas
-**(Grupo 11 - )**  
+**(Grupo 11 - Alan)**  
 **(Grupo 12 - )**  
 
 Funções:
@@ -90,9 +90,9 @@ Funções:
 - Exibir quantos quartos estão disponiveis no hotel
 
 ---------------------------
-### 7 - Lista de Atividades  (To do List)
+### ~~7 - Lista de Atividades  (To do List) (ESGOTADO)~~
 **(Grupo 13 - Daniel de Jesus, Pedro Victhor e Carlos)**  
-**(Grupo 14 - )**  
+**(Grupo 14 - Matheus De Souza, Pedro Vinicius e Vinicius Lamenha)**  
 
 Funções:
 - Cadastrar uma atividade a ser realizada (Nome da atividade)
@@ -115,8 +115,8 @@ Funções:
 - Confirmar consulta
 
 ----------------------------
-### 9 - Mercadinho 
-**(Grupo 17 - )**  
+### ~~ 9 - Mercadinho (ESGOTADO)~~ 
+**(Grupo 17 - Danilo Saulo, Erik Medonça e João Pedro Ferreira)**  
 **(Grupo 18 - João Gabriel Lins de Lima e Sammy Teixeira )**  
 
 Funções:
@@ -142,7 +142,7 @@ Funções:
 ----------------------------
 ### ~~11 - Sistema de Atendimento de Restaurante (ESGOTAADO)~~
 **(Grupo 21 - Arthur Rafael e Fernando Henrique)**    
-**(Grupo 22 - Diogo Paes e Andrei)**  
+**(Grupo 22 - Diogo Paes, Andrei e Murilo)**  
 
 Funções:
 - Login
@@ -248,7 +248,7 @@ Funções:
 -------------------------------
 ### 18 -  Sistema de RH
 **(Grupo 35 - João Gabriel Cavalcante, Thiago Minervino, Matheus Xavier)**  
-**(Grupo 36 - )**  
+**(Grupo 36 - João Gabriel Bezerra e Luís Correia)**  
 Funções: 
 - Login
 - Menu de opções

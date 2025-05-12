@@ -19,8 +19,8 @@ Definições:
 ## TEMAS
 ---------------------------
 ### 1 - Biblioteca
-**(Grupo 1 - Valquíria Kaila e Teófanes Albuquerque)**    
-**(Grupo 2 - )**   
+**(Grupo 1 - Valquíria Kaila, Teófanes Albuquerque e Fellyp Moreno)**    
+**(Grupo 2 - Alex Dyllan e Jorge José Luiz)**   
 
 Funções:
 - Login
@@ -41,7 +41,7 @@ Funções:
 - Exibe os 5 primeiros colocados
 
 ----------------------------
-### 3 - Loja de Sanduiche
+### ~~3 - Loja de Sanduiche (ESGOTADO)~~
 **(Grupo 5 - Ryan e Jose Leonardo)**   
 **(Grupo 6 - Jorge Jose, Pedro Henrique dos Santos e Yuri Clay)**   
 
@@ -53,9 +53,9 @@ Funções:
 - Exibe as compras (historico) 
 
 -----------------------------
-### 4 - Sistema Acadêmico
+### ~~4 - Sistema Acadêmico (ESGOTADO)~~
 **(Grupo 7 - José Lucas, Pedro Gabriel e Stella)**   
-**(Grupo 8 - )**   
+**(Grupo 8 - Nicolle Terto e Vitor Vasconcelos)**   
 
 Funções:
 - Login
@@ -78,7 +78,7 @@ Funções:
 - Controlar Estoque de Remédios
 
 ---------------------------
-### 6 - Gerenciador de Pousadas
+### 6 - Gerenciador de - Alan Wagner Amorim De Andrade Filho
 **(Grupo 11 - Flávia Marina e Fábio Luis)**   
 **(Grupo 12 - )**   
 
@@ -104,7 +104,7 @@ Funções:
 
 ---------------------------
 ### 8 - Clinica 
-**(Grupo 15 - )**   
+**(Grupo 15 - Isaac Bruno, Isaque Ferreira e Klaus Pereira)**   
 **(Grupo 16 - )**   
 
 Funções:
