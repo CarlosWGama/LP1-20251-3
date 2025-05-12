@@ -118,6 +118,7 @@ Funções:
 ### ~~9 - Mercadinho (ESGOTADO)~~
 **(Grupo 17 - Gustavo Rodrigues, Rodrigo Antônio, Kauã Lira)**   
 **(Grupo 18 - Pedro Leão,Pedro Correia e Kevin Burgos)**   
+**(Grupo X - Arthur Resende e João Lucas)**   
 
 Funções:
 - Login

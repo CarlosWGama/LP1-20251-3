@@ -115,8 +115,8 @@ Funções:
 - Confirmar consulta
 
 ----------------------------
-### ~~9 - Mercadinho (ESGOTADO)~~
-**(Grupo 17 - Arthur Resende e João Lucas)**  
+### 9 - Mercadinho 
+**(Grupo 17 - )**  
 **(Grupo 18 - João Gabriel Lins de Lima e Sammy Teixeira )**  
 
 Funções:
